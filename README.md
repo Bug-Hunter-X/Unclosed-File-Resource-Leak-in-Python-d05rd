@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: leaving a file open without closing it. The `bug.py` file showcases the issue, while `bugSolution.py` provides a fix. Unclosed files can lead to resource exhaustion and errors, particularly in long-running programs or those processing many files.  Always ensure files are properly closed after use.
